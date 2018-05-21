@@ -1,0 +1,7 @@
+c:\users\wecancodeit\source\repos\ProjectOne_AlexandrosNicolaou\ProjectOne_AlexandrosNicolaou\bin\Debug\ProjectOne_AlexandrosNicolaou.exe.config
+c:\users\wecancodeit\source\repos\ProjectOne_AlexandrosNicolaou\ProjectOne_AlexandrosNicolaou\bin\Debug\ProjectOne_AlexandrosNicolaou.exe
+c:\users\wecancodeit\source\repos\ProjectOne_AlexandrosNicolaou\ProjectOne_AlexandrosNicolaou\bin\Debug\ProjectOne_AlexandrosNicolaou.pdb
+c:\users\wecancodeit\source\repos\ProjectOne_AlexandrosNicolaou\ProjectOne_AlexandrosNicolaou\obj\Debug\ProjectOne_AlexandrosNicolaou.csprojAssemblyReference.cache
+c:\users\wecancodeit\source\repos\ProjectOne_AlexandrosNicolaou\ProjectOne_AlexandrosNicolaou\obj\Debug\ProjectOne_AlexandrosNicolaou.csproj.CoreCompileInputs.cache
+c:\users\wecancodeit\source\repos\ProjectOne_AlexandrosNicolaou\ProjectOne_AlexandrosNicolaou\obj\Debug\ProjectOne_AlexandrosNicolaou.exe
+c:\users\wecancodeit\source\repos\ProjectOne_AlexandrosNicolaou\ProjectOne_AlexandrosNicolaou\obj\Debug\ProjectOne_AlexandrosNicolaou.pdb
